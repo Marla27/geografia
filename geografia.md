@@ -3,7 +3,7 @@ Skały i ich geneza
 Podział genetyczny skał
 Skały dzieli się na trzy główne grupy ze względu na ich pochodzenie: magmowe, osadowe i metamorficzne.
 
-Skały magmowe
+`Skały magmowe`
 
 Powstają w wyniku krystalizacji magmy lub lawy.
 	•	Przykłady:
@@ -12,7 +12,7 @@ Powstają w wyniku krystalizacji magmy lub lawy.
 	•	Pochodzenie: Ochładzanie i krzepnięcie magmy we wnętrzu Ziemi lub lawy na powierzchni.
 	•	Występowanie w Polsce: Sudety (granit w masywie Karkonoszy), Dolny Śląsk (bazalty w okolicach Legnicy).
 
-Skały osadowe
+`Skały osadowe`
 
 Tworzą się na powierzchni Ziemi w wyniku osadzania materiału skalnego lub wytrącania chemicznego.
 	•	Przykłady:
@@ -26,7 +26,7 @@ Tworzą się na powierzchni Ziemi w wyniku osadzania materiału skalnego lub wyt
 	•	Sól kamienna: Wieliczka, Bochnia.
 	•	Ropa naftowa i gaz ziemny: Podkarpacie, Wielkopolska, Bałtyk.
 
-Skały metamorficzne
+`Skały metamorficzne`
 
 Powstają w wyniku przeobrażenia skał magmowych lub osadowych pod wpływem wysokiej temperatury, ciśnienia lub działania roztworów chemicznych.
 	•	Przykłady:
@@ -35,7 +35,7 @@ Powstają w wyniku przeobrażenia skał magmowych lub osadowych pod wpływem wys
 	•	Diamenty: powstają w warunkach bardzo wysokiego ciśnienia i temperatury w głębokich partiach skorupy ziemskiej.
 	•	Występowanie w Polsce: Sudety (gnejsy w Górach Sowich), marmury w okolicach Strzegomia.
 
-Najważniejsze wydarzenia w geologii
+`Najważniejsze wydarzenia w geologii`
 
 	1.	Zlodowacenia
 	•	Liczba w Polsce: trzy główne zlodowacenia (na terenie Niżu Polskiego):
@@ -56,7 +56,7 @@ Najważniejsze wydarzenia w geologii
 	•	Era paleozoiczna: zalewy na terenie Gór Świętokrzyskich.
 	•	Era mezozoiczna: dominacja morza na obszarze dzisiejszej Jury Krakowsko-Częstochowskiej.
 
-Podział geologiczny na ery
+`Podział geologiczny na ery`
 
 	1.	Archaik (4,6–2,5 mld lat temu): formowanie się skorupy ziemskiej.
 	2.	Proterozoik (2,5–541 mln lat temu): pierwsze organizmy wielokomórkowe.
@@ -66,7 +66,7 @@ Podział geologiczny na ery
 	•	Paleogen i neogen: rozwój ssaków, orogeneza alpejska.
 	•	Czwartorzęd (2,6 mln lat temu–teraz): epoka lodowcowa, formowanie krajobrazu Polski.
 
-Czwartorzęd w Polsce
+`Czwartorzęd w Polsce`
 	•	Formowanie się rzeźby polodowcowej:
 	•	Jeziora rynnowe (np. Jezioro Wigry).
 	•	Głazy narzutowe (np. Gołuchów).
